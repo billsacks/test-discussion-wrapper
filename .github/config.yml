@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Component A forums
+    url: https://github.com/billsacks/testrepo/discussions
+    about: For support with component A
+  - name: Component B forums
+    url: https://github.com/billsacks/testrepo2/discussions
+    about: For support with component B
